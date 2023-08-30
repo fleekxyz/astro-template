@@ -1,6 +1,6 @@
 # Astro + Fleek Starter Kit
 
-![preview](./.github/preview.png)
+![image](https://github.com/fleekxyz/astro-template/assets/73345016/a3213c3c-001a-46aa-94f9-011bf40f4ed7)
 
 ## 🚀 Project Structure
 
